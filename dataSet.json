@@ -1,0 +1,224 @@
+[
+    {
+      "name": "Dr. Aniket Deshmukh",
+      "expertise": "Physiotherapy",
+      "state": "Maharashtra"
+    },
+    {
+      "name": "Dr. Sneha Kapoor",
+      "expertise": "Physiotherapy",
+      "state": "Maharashtra"
+    },
+    {
+      "name": "Dr. Sameer Shah",
+      "expertise": "Physiotherapy",
+      "state": "Maharashtra"
+    },
+    {
+      "name": "Dr. Pooja Patil",
+      "expertise": "Physiotherapy",
+      "state": "Maharashtra"
+    },
+    {
+      "name": "Dr. Ashish Joshi",
+      "expertise": "Physiotherapy",
+      "state": "Maharashtra"
+    },
+    {
+      "name": "Dr. Priya Rajan",
+      "expertise": "Physiotherapy",
+      "state": "Tamil Nadu"
+    },
+    {
+      "name": "Dr. Arjun Nair",
+      "expertise": "Physiotherapy",
+      "state": "Tamil Nadu"
+    },
+    {
+      "name": "Dr. Divya Singh",
+      "expertise": "Physiotherapy",
+      "state": "Tamil Nadu"
+    },
+    {
+      "name": "Dr. Nandini Iyer",
+      "expertise": "Physiotherapy",
+      "state": "Tamil Nadu"
+    },
+    {
+      "name": "Dr. Karthik Kumar",
+      "expertise": "Physiotherapy",
+      "state": "Tamil Nadu"
+    },
+    {
+      "name": "Dr. Priya Reddy",
+      "expertise": "Physiotherapy",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "name": "Dr. Sanjay Kumar",
+      "expertise": "Physiotherapy",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "name": "Dr. Anusha Sharma",
+      "expertise": "Physiotherapy",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "name": "Dr. Rajesh Patel",
+      "expertise": "Physiotherapy",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "name": "Dr. Swati Desai",
+      "expertise": "Physiotherapy",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "name": "Dr. Ananya Singh",
+      "expertise": "Physiotherapy",
+      "state": "Arunachal Pradesh"
+    },
+    {
+      "name": "Dr. Vikram Das",
+      "expertise": "Physiotherapy",
+      "state": "Arunachal Pradesh"
+    },
+    {
+      "name": "Dr. Sneha Sharma",
+      "expertise": "Physiotherapy",
+      "state": "Arunachal Pradesh"
+    },
+    {
+      "name": "Dr. Rahul Gupta",
+      "expertise": "Physiotherapy",
+      "state": "Arunachal Pradesh"
+    },
+    {
+      "name": "Dr. Meenakshi Devi",
+      "expertise": "Physiotherapy",
+      "state": "Arunachal Pradesh"
+    },
+    {
+        "name": "Dr. Neha Kapoor",
+        "expertise": "Neurological Physiotherapy",
+        "state": "Delhi"
+      },
+      {
+        "name": "Dr. Rahul Singh",
+        "expertise": "Sports Physiotherapy",
+        "state": "Delhi"
+      },
+      {
+        "name": "Dr. Preeti Verma",
+        "expertise": "Pediatric Physiotherapy",
+        "state": "Delhi"
+      },
+      {
+        "name": "Dr. Ankit Gupta",
+        "expertise": "Cardiovascular Physiotherapy",
+        "state": "Delhi"
+      },
+      {
+        "name": "Dr. Ritu Patel",
+        "expertise": "Cardiology",
+        "state": "Delhi"
+      },
+      {
+        "name": "Dr. Vikas Rawat",
+        "expertise": "Orthopedic Physiotherapy",
+        "state": "Uttarakhand"
+      },
+      {
+        "name": "Dr. Nisha Singh",
+        "expertise": "Neurological Physiotherapy",
+        "state": "Uttarakhand"
+      },
+      {
+        "name": "Dr. Rohit Sharma",
+        "expertise": "Sports Physiotherapy",
+        "state": "Uttarakhand"
+      },
+      {
+        "name": "Dr. Anjali Gupta",
+        "expertise": "Pediatric Physiotherapy",
+        "state": "Uttarakhand"
+      },
+      {
+        "name": "Dr. Sunil Verma",
+        "expertise": "Cardiovascular Physiotherapy",
+        "state": "Uttarakhand"
+      },
+      {
+        "name": "Dr. Anil Kumar",
+        "expertise": "Orthopedic Physiotherapy",
+        "state": "Uttar Pradesh"
+      },
+      {
+        "name": "Dr. Priya Singh",
+        "expertise": "Neurological Physiotherapy",
+        "state": "Uttar Pradesh"
+      },
+      {
+        "name": "Dr. Rohan Verma",
+        "expertise": "Sports Physiotherapy",
+        "state": "Uttar Pradesh"
+      },
+      {
+        "name": "Dr. Swati Yadav",
+        "expertise": "Pediatric Physiotherapy",
+        "state": "Uttar Pradesh"
+      },
+      {
+        "name": "Dr. Ajay Sharma",
+        "expertise": "Cardiovascular Physiotherapy",
+        "state": "Uttar Pradesh"
+      },
+      {
+        "name": "Dr. Arjun Das",
+        "expertise": "Orthopedic Physiotherapy",
+        "state": "West Bengal"
+      },
+      {
+        "name": "Dr. Ananya Chatterjee",
+        "expertise": "Neurological Physiotherapy",
+        "state": "West Bengal"
+      },
+      {
+        "name": "Dr. Rajat Sen",
+        "expertise": "Sports Physiotherapy",
+        "state": "West Bengal"
+      },
+      {
+        "name": "Dr. Mitali Banerjee",
+        "expertise": "Pediatric Physiotherapy",
+        "state": "West Bengal"
+      },
+      {
+        "name": "Dr. Amit Kumar",
+        "expertise": "Orthopedic Physiotherapy",
+        "state": "Jharkhand"
+      },
+      {
+        "name": "Dr. Priya Singhania",
+        "expertise": "Neurological Physiotherapy",
+        "state": "Jharkhand"
+      },
+      {
+        "name": "Dr. Rohit Verma",
+        "expertise": "Sports Physiotherapy",
+        "state": "Jharkhand"
+      },
+      {
+        "name": "Dr. Sweta Das",
+        "expertise": "Pediatric Physiotherapy",
+        "state": "Jharkhand"
+      },
+      {
+        "name": "Dr. Akash Raj",
+        "expertise": "Cardiovascular Physiotherapy",
+        "state": "Jharkhand"
+      }
+  ]
+  
+  
